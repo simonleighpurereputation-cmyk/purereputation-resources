@@ -1,5 +1,5 @@
 # Pure Reputation UK - Digital Reputation Resources
-
+ 
 Essential guides, frameworks, and resources for building and defending digital reputations. Curated by **Simon Leigh**, Director of **Pure Reputation UK**.
 
 ## 📚 Core Principles of Digital Reputation
